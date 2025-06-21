@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+.svelte-kit/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.*
+
+# Optional: local preview cache
+.cache/
+
+# macOS Finder tags
+.AppleDouble
+
+# VSCode settings (optional)
+.vscode/
